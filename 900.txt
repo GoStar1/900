@@ -77,14 +77,16 @@
 75. My name is Jones.
 76. What's your first name?
 77. My first name is Bill.
-78. How do you spell
+78. How do you spell your last name?
+    jones. j-o-n-e-s.
+    what's your friend's name?
 79. His name is John Smith.
 80. John and I are old friends.
 81. Are you John's brother?
 82. No, I'm not.
 83. This is Mr. Jones.
 84. How do you do?
-85. Mrs. Jones,
+85. Mrs. Jones, this is Mr.John Smith.
 86. Very pleased to meet you.
 87. What day is today?
 88. Today is Monday.
@@ -93,9 +95,9 @@
 91. What day is tomorrow?
 92. What month is this?
 93. This is January.
-94. Last month was December,
+94. Last month was December, wasn't it?
 95. Yes, it was.
-96. What month
+96. What month is next month？
 97. Where were you
 98. You were here in February,
 99. Your friend was here
