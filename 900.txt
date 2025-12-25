@@ -98,54 +98,66 @@
 98. Last month was December, wasn't it?
 99. Yes, it was.
 100. What month is next month?
-101. Where were you?
-102. You were here in February.
-103. Your friend was here.
+    I was in the hospital for several weeks.
+101. Where were you on Tuesday?
+102. You were here in February, weren't you ?
+    no, i wasn't.
+103. Your friend was here a week ago, wasn't he?
 104. Do you have a book?
 105. Yes, I do.
-106. You have a radio.
-107. I don't have one.
+106. You have a radio,don't you?
+    no i don't.
+    i don't have a Phonograph, either.
 108. Does this radio belong to you?
 109. Yes, I think it does.
 110. How many sisters do you have?
 111. Don't you have my hat?
-112. Yes, I have both your hat and coat.
+112. Yes, I have both your hat and your coat.
 113. Does John have a yellow pencil?
 114. Yes, he does.
 115. He has a radio, doesn't he?
 116. No, he doesn't have one.
-117. He already has a lot of things.
+117. He already has a phonograph,but he doesn't have a radio yet.
 118. What time is it?
 119. It's two o'clock.
 120. It's a few minutes after two.
-121. My watch is fast.
-122. Excuse me. Can you tell me the time?
+121. My watch is fast and your watch is slow.
+122. Excuse me. Can you tell me the correct time?
 123. No, I can't.
-124. It must be about six.
+    i don't know what time it is.
+    i don't think it's four o'clock yet.
+124. It must be about three thirty.
+    i get up before six o'click every day.
+    the restaurant doesn't open until seven forty-five.
 125. Will you be here at ten o'clock?
 126. Yes, I will.
 127. We'll be on time, won't we?
+    i hope so.
 128. What's the date today?
-129. Today is November first.
+129. Today is November first, nineteen sixty-three.
 130. When were you born?
+    i was born on November first,nineteen thirty-five.
 131. Today is my birthday.
 132. My sister was born in 1938.
 133. I don't know the exact date.
 134. Where were you born?
-135. What do you know about it?
+    i was born in a little town not far from here.
+135. What do you know about the tenth century?
+    i don't know anything about that.
 136. Let's talk about something else.
-137. Where were you during the war?
-138. Where will you be tomorrow?
+137. Where were you during the month of April last year?
+    i don't remember where i was then.
+138. Where will you be next year at this time?
 139. What do you want?
-140. What would you like to have?
-141. Please give me a piece of paper.
-142. Which one would you like?
+    i want a cup of coffee.
+140. What would you like to eat?
+141. Please give me a piece of pie.
+142. Which one would you like this one or that one?
 143. It doesn't matter to me.
-144. I'd like to talk with Mr. Johns.
-145. Mr. Johns or Mr. Smith?
-146. I'm sorry, but both of them are busy.
+144. I'd like to talk with Mr. Johns or Mr. Smith?
+146. I'm sorry, but both of them are busy right now.
 147. Wouldn't you like some coffee?
-148. I'd rather have some tea.
+148. I'd rather have some tea if you don't mind.
 149. Do you know any of those people?
 150. Two or three of them look familiar.
 151. All of those men are friends of mine.
@@ -156,27 +168,29 @@
 156. Does your friend speak English?
 157. Yes, he speaks English perfectly.
 158. What's his native language?
+    i don't know what his native language is.
 159. How many languages do you speak?
 160. My friend reads and writes several languages.
 161. How well do you know French?
-162. He speaks French with an accent.
-163. My parents speak English perfectly.
+162. He speaks French with an American accent.
+163. My parents speak English fluently.
 164. Mr. Jones can read French pretty well.
+    sometimes i make mistakes when i speak english.
+    i have a lot of trouble with pronunciation.
 165. How is her accent in French?
 166. What are you doing?
 167. I'm reading a book.
 168. What's your friend doing?
 169. He's studying his lesson.
 170. I'm not doing anything right now.
-171. I'm not doing anything special.
 172. Where are you going?
 173. I'm going home.
 174. What time are you coming back?
 175. I'm not sure what time I'm coming back.
-176. I'm coming back right away.
 177. What are you thinking about?
+    i'm thinking about my lesson.
 178. Who are you writing to?
-179. I'm writing to a friend of mine.
+179. I'm writing to a friend of mine in South America.
 180. By the way, who are you waiting for?
 181. I'm not waiting for anybody.
 182. How old are you?
