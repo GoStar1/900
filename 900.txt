@@ -1,0 +1,794 @@
+1. Hello.
+2. Good morning.
+3. I'm John Smith.
+4. Are you Bill Jones?
+5. Yes, Iam.
+6. How are you?
+7. Fine, thanks.
+8. How is Helen?
+9. She's very well, thank you.
+10. Good afternoon, Mr. Green.
+12. Good evening, Mrs. Brown.
+13. How are you this evening?
+14. Good night, John.
+15. Goodbye, Bill.
+16. See you tomorrow.
+17. Come in, please.
+18. Sit down.
+19. Stand up, please.
+20. Open your book, please.
+21. Close your book, please.
+22. Don't open your book.
+23. Do you understand?
+24. Yes, I understand.
+25. No, I don't understand.
+26. Listen and repeat.
+27. Now read, please.
+28. That's fine.
+29. It's time to begin.
+30. Let's begin now.
+31. This is Lesson One.
+32. What's this?
+33. That's a book.
+34. Is this your book?
+35. No, that's not my book.
+36. Whose book is this?
+37. That's your book.
+38. And what's that?
+39. Is that a book?
+40. No, it isn't.
+41. It's a pencil.
+42. Is it yours?
+43. Yes, it's mine.
+44. Where's the door?
+45. There it is.
+46. Is this book his?
+47. What are these?
+48. Those are books.
+49. Where are the books?
+50. There they are.
+51. These are my pencils.
+52. Where are your pens?
+53. They're over there.
+54. Are these your pens?
+55. Yes, they are.
+56. Those are mine.
+57. These are your books, aren't they?
+58. No, they aren't.
+59. They're not mine.
+60. These are mine, and those are yours.
+61. Those aren't your pens, are they?
+62. Who are you?
+63. I'm a student.
+64. Who is that over there?
+65. He's a student, too.
+66. Is that lady a student?
+67. No, she isn't.
+    those men aren't students,eigher.
+68. Am I your teacher?
+69. Yes, you are.
+70. That man is a teacher, isn't he?
+71. Yes, he is.
+72. Who are those people?
+73. Maybe they're farmers.
+    aren't they students?
+    i really don't know.
+74. What's your name?
+75. My name is Jones.
+76. What's your first name?
+77. My first name is Bill.
+78. How do you spell
+79. His name is John Smith.
+80. John and I are old friends.
+81. Are you John's brother?
+82. No, I'm not.
+83. This is Mr. Jones.
+84. How do you do?
+85. Mrs. Jones,
+86. Very pleased to meet you.
+87. What day is today?
+88. Today is Monday.
+89. What day was yesterday?
+90. Yesterday was Sunday.
+91. What day is tomorrow?
+92. What month is this?
+93. This is January.
+94. Last month was December,
+95. Yes, it was.
+96. What month
+97. Where were you
+98. You were here in February,
+99. Your friend was here
+100. Do you have a book?
+101. Yes, I do.
+102. You have a Radio,
+103. I don't have
+104. Does this radio belong to
+105. Yes, I think it does.
+106. How many sisters
+107. Don't you have my hat?
+108. Yes, I have both your hat
+109. Does John
+110. Yes, he does.
+111. He has a radio, doesn't he?
+112. No, he doesn't have one.
+113. He already has
+114. What time is it?
+115. It's two o'clock.
+116. It's a few minutes
+117. My watch is fast
+118. Excuse me. Can you tell me
+119. No, I can't.
+120. It must be
+121. Will you be here
+122. Yes, I will.
+123. We'll be on time,
+124. What's the date today?
+125. Today is November first,
+126. When were you born?
+127. Today is my birthday.
+128. My sister was born
+129. I don't know
+130. Where were you born?
+131. What do you know
+132. Let's talk about something
+133. Where were you during the
+134. Where will you be
+135. What do you want?
+136. What would you like to
+137. Please give me
+138. Which one would you
+139. It doesn't matter to me.
+140. I'd like to talk with
+141. Mr. Johns or Mr. Smith.
+142. I'm sorry, but both of them
+143. Wouldn't you like
+144. I'd rather have some tea
+145. Do you know
+146. Two or three of them
+147. All of those men
+148. Which one of those men
+149. Is he the tall man
+150. Do you speak English?
+151. Yes, a little.
+152. Does your friend speak
+153. Yes, he speaks English
+154. What's his native
+155. How many languages
+156. My friend reads and writes
+157. How well do you know
+158. He speaks French with an
+159. My parents speak English
+160. Mr. Jones can read French
+161. How is her accent
+162. What are you doing?
+163. I'm reading a book.
+164. What's your friend doing?
+165. He's studying his lesson.
+166. I'm not doing anythin
+167. I'm not doing anything
+168. Where are you going?
+169. I'm going home.
+170. What time
+171. I'm not sure what time
+172. I'm coming back.
+173. What are you thinking
+174. Who are you writing to?
+175. I'm writing to a friend
+176. By the way,
+177. I'm not waiting for
+178. How old are you?
+179. I'm twenty-one years old.
+180. My brother
+181. John is not forty-five yet,
+182. Mr. Smith
+183. I'm two years older than
+184. My brother is two years
+185. How many are there
+186. There are seven of us
+187. My sister is the oldest.
+188. I'm the youngest.
+189. Guess how old I am.
+190. I'd say you're
+191. I'm going to be sixty-one
+192. What time do you get up
+193. I get up
+194. After I get dressed,
+195. Before I eat dinner, I read
+196. What time did you get up
+197. My brother got up earlier
+198. Did you get dressed
+199. What kind of breakfast
+200. What time did you get to
+201. Did you work all day?
+202. Yes, I worked from early
+203. At noon I had lunch
+204. After dinner I read a
+205. Where did you go
+206. Did you see Mr. Jones
+207. What did you talk about?
+208. What did you ask him?
+209. He said he knew
+210. He said he would rather
+211. What time did you use to
+212. My brother and I used to
+213. We used to go to the
+214. We used to have a lot of
+215. My brother used to speak
+216. French to me all the time.
+217. Where do you live?
+218. What's your address?
+219. I'm Mr. Smith's next door
+220. You live here in the city,
+221. I'm from out of town.
+222. How long
+223. I've lived here
+224. I've spoken English
+225. I've already
+226. Has he studied French
+227. Have you had breakfast
+228. Yes, I had breakfast
+229. What were you doing
+230. When you called me,
+231. When I saw Mr. Jones,
+232. While you
+233. While we were having
+234. Can you guess what I was
+235. I can't remember
+236. I've forgotten what he said
+237. I've forgotten what time
+238. They called us just as we
+239. What color is your book?
+240. My book
+241. How much does
+242. It's not too heavy,
+243. This round table weighs
+244. One of my suitcases
+245. That street
+246. Will you please measure
+247. This window is just
+248. This pencil
+249. Would you please tel
+250. Mr. Cooper that I'm here?
+251. Would you please tell
+252. Take these books home
+253. Please bring me
+254. Would you help me
+255. Please ask John to turn
+256. Put your books down
+257. Get me a hammer
+258. Hang up my coat in the
+259. Would you mind mailing
+260. If you have time, will you
+261. Please pick up those cups
+262. Will you do me a favor?
+263. Please count the chairs
+264. Please pour this milk
+265. Can you give me
+266. Can you tell me
+267. It's two blocks straight
+268. Which direction is it
+269. Turn right
+270. How far is it
+271. It's a long way from here.
+272. The school
+273. The restaurant is across
+274. You can't miss it.
+275. Do you happen to know
+276. Mr. Cooper's telephone
+277. Could you tell me where
+278. Should I go this way,
+279. Go that way for two
+280. Is this seat taken?
+281. Are you married?
+282. No, I'm not married.
+283. I'm still single.
+284. Your niece is engaged,
+285. My sister has been
+286. When is your
+287. They've been married
+288. Who did George marry?
+289. Do they have children?
+290. They had a baby
+291. My son wants
+292. They don't know
+293. She's a widow. Her
+294. Where did you grow up?
+295. My friend spent his
+296. He lived in California
+297. There have been
+298. There used to be a grocery
+299. All of those houses
+300. If you buy that home,
+301. Are your neighbors
+302. We all know each other
+303. Who bought that new
+304. An elderly man rented
+305. What beautiful trees
+306. What time are you going to
+307. I'll probably wake up early
+308. What will you do then?
+309. I'll have breakfast.
+310. I'll! have breakfast.
+311. What will you have
+312. I'll probably have eggs
+313. I'll get ready to go to work.
+314. I'll leave the house at eight
+315. I'll probably
+316. I'll finish working at five
+317. Are you going to have
+318. Do you think
+319. I'll probably stay home
+320. I'll probably stay hom
+321. When I get sleepy,
+322. I'll probably get ready
+323. Do you think you'll be able
+324. How is the weather today?
+325. The weather is nice today.
+326. What was the weather like
+327. Yesterday it rained all day.
+328. What will the weather
+329. It's going to snow
+330. It's quite cold today.
+331. It's been cloudy
+332. Is it raining now?
+333. It'll probably clear up
+334. The days are getting
+335. Today is the first day
+336. What's the temperature
+337. It's about seventy degrees
+338. Fahrenheit this afternoon.
+339. There's a cool breeze
+340. How are you feeling
+341. My fever is gone,
+342. Which of your arms
+343. My right arm hurts.
+344. It hurts right here.
+345. What's the matter
+346. I've got pain in my back.
+347. Is it the left one?
+348. How did you
+349. Your right hand is swollen.
+350. Does it hurt?
+351. You'd better go see
+352. After getting up,
+353. Then, I shave, brush my
+354. After brushing my teeth,
+355. After that, I go downstairs
+356. Then, it's usually time to
+357. He can't dress himself yet
+358. He tries to button his own
+359. My little brother takes a
+360. He always forgets to wash
+361. I'm always tired when
+362. I take off my clothes
+363. I get into bed
+364. What do you think?
+365. Is that right?
+366. Certainly.
+367. You're absolutely right
+368. Certainly. _
+369. Do you think it's going to
+370. In my opinion,
+371. Why is Mr. Cooper so tired?
+372. Do you have any idea?
+373. He's tired because he
+374. What do you think
+375. I think you have
+376. Do you really want to
+377. Of course, I want to know
+378. What do you plan to do
+379. Please excuse me
+380. I'll do some work instead
+381. Will it be convenient
+382. There's nothing to do
+383. What's your brother
+384. He can't decide
+385. It's difficult to make a
+386. That's a good idea.
+387. I'm hoping to spend a few
+388. Would you consider going
+389. If there's a chance you'll
+390. After you think it over,
+391. I'm anxious to know
+392. I'm confident you've made
+393. Will you accept my advice?
+394. What have you decided?
+395. He didn't want to say
+396. It took him a long time
+397. You can go
+398. According to Mr. Green,
+399. Are you going to go
+400. If Ihave enough money,
+401. I'm going to take a trip
+402. How are you going?
+403. Are you going by boat?
+404. It's faster to go by plane
+405. What's the quickest way
+406. Altogether it will take
+407. I'm leaving tomorrow,
+408. I'm going by air.
+409. I like flying.
+410. My brother took a trip
+411. It was a six-hour flight.
+412. How many passengers
+413. His friend was injured
+414. Would you like to go
+415. Let's go out to the airport.
+416. The plane landed
+417. If this shirt doesn't fit,
+418. That suit looks very good
+419. This dress is made of silk,
+420. I'd like to try on this
+421. What's the price
+422. How much is this rug?
+423. Is this toothpaste on sale
+424. That's a beautiful leather
+425. How much do! owe you?
+426. That will be eighteen
+427. Do you have change
+428. The clerk helped me find
+429. What would you like
+430. I'd like a bowl of tomato
+431. The waiter seems to be in
+432. Which would you rather
+433. What kinds of vegetables
+434. I'll have mashed potatoes
+435. Would you please
+436. They serve good food
+437. Are you ready
+438. This knife is dirty.
+439. Would you bring me
+440. May I have the check,
+441. You have your choice of
+442. We have vanilla,
+443. We invited two guests
+444. How long did the movie
+445. They say the new film
+446. A group of us went out
+447. The new play was good
+448. By the time we got there,
+449. The cast of the play
+450. After the play was over,
+451. There was a big crowd
+452. The restaurant was filled,
+453. My brother wants to learn
+454. We don't go dancing
+455. Which would you rather.
+456. I'm not accustomed to
+457. I'd like to make an
+458. Would you like to arrange
+459. I can come any day except
+460. He wants to change his
+461. She failed to call
+462. I'm going to call
+463. Please fill in this
+464. Are you looking
+465. I'm going to call a plumber
+466. I'm a new employee.
+467. Please call before you
+468. Let's make a date to go
+469. Will you please lock
+470. The doctor discovered that
+471. I'm a little overweight.
+472. He gave me a chest X-ray
+473. He told me to take these
+474. Do you think the patient
+475. They operated on him
+476. He needed a blood
+477. My uncle had
+478. They had to callin
+479. What did the doctor say?
+480. The doctor advised me to
+481. The doctor said I look pale.
+482. If I want to be healthy,
+483. It's just a mosquito bite.
+484. What number should I dial
+485. Pick up the receiver and
+486. I tried to call Mr. Cooper,
+487. You must have dialed
+488. The telephone is ringing.
+489. Would you answer it,
+490. Would you like
+491. Who is this? I don't
+492. Put the receiver closer
+493. Would you mind calling
+494. How long has it been a
+495. How long has it been
+496. When was the last time
+497. I can't recall
+498. I'm always disappointed
+499. What time is the mail
+500. The postman always
+501. I didn't know
+502. How long does it take for a
+503. Don't forget to put stamps
+504. He went to the post office
+505. How did you sign the
+506. A strange thing happened
+507. It was a terrible
+508. Yesterday was sucha
+509. We prepared a picnic lunch
+510. After a while,
+511. On the way back home,
+512. It was after dark
+513. We used to have
+514. I can't recall the exact
+515. I never realized that aa
+516. We never imagined
+517. We're looking for a house
+518. Are you trying to find
+519. This split-level house
+520. That house is for sale.
+521. It has central heating.
+522. We have
+523. This is an interesting
+524. The roof has leaks in it,
+525. We've got to get a bed and
+526. Does the back door
+527. They've already turned on
+528. The house is ready.
+529. I'm worried about the
+530. If you want a towel,
+531. What style furniture do
+532. We have drapes for the
+533. The house needs painting.
+534. It's in bad condition.
+535. What are you going to
+536. I'm going to wear my blue
+537. You ought to have that
+538. I've got to get this shirt
+539. All my suits are dirty.
+540. You'd better wear a light
+541. I guess I've outgrown
+542. These shoes are worn out.
+543. They've lasted a long time.
+544. Why don't you
+545. Put on your work clothes.
+546. My brother came in,
+547. You have your point of
+548. That's a liberal point
+549. He seems to have a lot of
+550. Rat he-Fitme Ga At eae.
+551. There are always two sides
+552. We have opposite views
+553. Do you agree with me?
+554. What point are you trying
+555. Our views are not so
+556. We should be able to
+557. If it doesn't rain tomorrow,
+558. I think I'll go shopping.
+559. There's a possibility we'll
+560. If I have time tomorrow,
+561. I think I'll get a haircut.
+562. If I get my work finished
+563. If I get my work finished.
+564. Suppose you couldn't go
+565. How would you feel?
+566. What would you say
+567. If I buy that car, I'll have
+568. If I went with you, I'd have
+569. One of these days, I'd like
+570. I'm going to change jobs.
+571. There's a chance he won't
+572. We may be able
+573. If you were to attend
+574. What would you have done
+575. If you had gotten up
+576. If I had had time,
+577. Would he have seen you if
+578. If you hadn't slipped
+579. If Ihad known
+580. Had I known you didn't
+581. She would have gone
+582. If Ihad asked
+583. Even if we could have
+584. Looking back on it,
+585. What is it you don't like
+586. I don't like it when the
+587. I can't stand
+588. The thing I don't like
+589. The thing I don't like _
+590. He doesn't like the idea
+591. I'm not a very good player.
+592. Its gud for mi.]
+593. I'm afraid you're being
+594. He always finds fault
+595. She doesn't like anything
+596. You have wonderful taste
+597. What's your favorite
+598. What did you like best
+599. I didn't like
+600. Why do you dislike the
+601. If you want my advice,
+602. It's only a suggestion,
+603. Let me give you
+604. If you don't like it,
+605. Please don't take offense.
+606. In my opinion, the house
+607. My feeling is that you
+608. It's none of my business,
+609. If you don't take my
+610. I've always tried not to
+611. I'm old enough to make up
+612. Thanks for the advice,
+613. He won't pay attention
+614. Would you please hold
+615. You're very kind to take
+616. I'm afraid it was a bother
+617. It wasn't any bother.
+618. There's just one last favor
+619. I'd be happy to help you
+620. Would you mind giving me
+621. Would you be so kind as to
+622. If there's anything else
+623. I can do,
+624. This is the last time
+625. I'll ever ask you to do
+626. This is the last time -
+627. I certainly didn't intend
+628. He'll always be indebted
+629. Could you lend me >
+630. Could you lend me
+631. I'd appreciate it
+632. I've got a lot of things
+633. For one thing, I've got
+634. It'll take almost all my
+635. Oh, I just remembered
+636. It's a good thing
+637. I'll see you off
+638. They're calling your flight
+639. You'd better run or you're
+640. Don't forget to cable
+641. I'm sure
+642. Do you have anything
+643. You don't have to pay
+644. What's your nationality?
+645. Are you American?
+646. What part of the world
+647. I'm an American by birth.
+648. Do you know what the
+649. What's the area of Congo
+650. Who is the governor
+651. According to the latest
+652. The country is rich
+653. It has mineral deposits.
+654. This nation is noted
+655. How old do you have to be
+656. Today we celebrate
+657. It's a national holiday.
+658. My home is in the capital.
+659. It's a cosmopolitan city.
+660. It's a beautiful country
+661. This part of the country
+662. The land in this region
+663. There are forests here, and
+664. The scenery is beautiful
+665. What kind of climate
+666. How far is it from
+667. Is the coastal plain good
+668. What's the longest river
+669. Are most of the lakes
+670. The weather is warm
+671. Do you get much rain?
+672. Children enter school at
+673. In elementary school,
+674. In secondary school,
+675. He went to grade school
+676. What was your major?
+677. My sister graduated
+678. Graduation was last night.
+679. I'm a graduate
+680. If you expect
+681. This is my first year
+682. What kind of grades
+683. During your first year
+684. John has
+685. He's on the football team.
+686. I'm a federal employee.
+687. What kind of work do you
+688. John has built up his own
+689. What do you want to be
+690. Have you decided yet?
+691. Have you ever thought
+692. My uncle was a pilot
+693. He just retired.
+694. My brother's in the army.
+695. He was just promoted
+696. My sister worked
+697. He has his own practice.
+698. He always
+699. He's very efficient.
+700. Mr. Smith is a politician.
+701. He's running for election
+702. After a successful career
+703. Because of the warm and
+704. In this flat country,
+705. The ground around here
+706. What are the principal
+707. They had to cut down
+708. At this time of the year,
+709. On many farms, you'll find
+710. If you have cows,
+711. In the United States,
+712. If you work in a factory,
+713. Is meat packing a big
+714. Is it true that manufacturing
+715. Do you have a hobby?
+716. I've always thought
+717. I've always thought I
+718. Some people
+719. Do you have
+720. It tetks mar maind of mat wark.]
+721. On weekends I like to get
+722. My cousin is a member
+723. He seems to enjoy acting.
+724. My cousin is amember
+725. He plays the piano
+726. He's not a professional.
+727. I've heard of unusual
+728. That's a rare set of coins.
+729. How long did it take you
+730. I started a new hobby.
+731. It's my favorite sport.
+732. What's your favorite?
+733. My nephew is a baseball
+734. When you played football,
+735. We played a game
+736. It was a good fight.
+737. When I was on the track
+738. My favorite winter sport
+739. Would you be interested
+740. The hardest thing to learn
+741. Be a good sport.
+742. Play according to the rules
+743. Our family went camping
+744. We had to buy a new tent.
+745. This afternoon we went
+746. What do you do
+747. My muscles are sore
+748. It's put out every week.
+749. I sent in a subscription
+750. If you subscribe to the
+751. The first chapter
+752. Is it out yet?
+753. Have you seen it?
+754. My brother-in-law
+755. The New York Times staff.
+756. There was an article
+757. There wasn't much news
+758. How long have you been
+759. Did you read the article.
+760. Did you read the article I
+761. Why don't you put
+762. My son has a newspaper
+763. What channel did you
+764. You get good reception
+765. Please turn the radio up.
+766. It's too low.
+767. What's on following
+768. Do you have a TV guide?
+769. What's on following ~~
+770. What's on following -
+771. You ought to
+772. Maybe he could fix it.
+773. Where can I plug in the TV?
+774. Is this outlet all right?
+775. Your car radio works
+776. The next time I buy
+777. You'd get better TV
+778. You'd get better Vv
+779. Most amateur radio
+780. What's your favorite kind
+781. He's a composer
+782. We went to a concert
+783. My brother took lessons
+784. You play the piano
+785. I've never heard that piece
+786. Who is the author of this
+787. I've never read a more
+788. Who would you name
+789. This poetry is realistic.
+790. This is a poem
+791. This is apoem
+792. How much do you know
