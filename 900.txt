@@ -2,102 +2,102 @@
 2. Good morning.
 3. I'm John Smith.
 4. Are you Bill Jones?
-5. Yes, Iam.
+5. Yes, I am.
 6. How are you?
 7. Fine, thanks.
 8. How is Helen?
 9. She's very well, thank you.
 10. Good afternoon, Mr. Green.
-12. Good evening, Mrs. Brown.
-13. How are you this evening?
-14. Good night, John.
-15. Goodbye, Bill.
-16. See you tomorrow.
-17. Come in, please.
-18. Sit down.
-19. Stand up, please.
-20. Open your book, please.
-21. Close your book, please.
-22. Don't open your book.
-23. Do you understand?
-24. Yes, I understand.
-25. No, I don't understand.
-26. Listen and repeat.
-27. Now read, please.
-28. That's fine.
-29. It's time to begin.
-30. Let's begin now.
-31. This is Lesson One.
-32. What's this?
-33. That's a book.
-34. Is this your book?
-35. No, that's not my book.
-36. Whose book is this?
-37. That's your book.
-38. And what's that?
-39. Is that a book?
-40. No, it isn't.
-41. It's a pencil.
-42. Is it yours?
-43. Yes, it's mine.
-44. Where's the door?
-45. There it is.
-46. Is this book his?
-47. What are these?
-48. Those are books.
-49. Where are the books?
-50. There they are.
-51. These are my pencils.
-52. Where are your pens?
-53. They're over there.
-54. Are these your pens?
-55. Yes, they are.
-56. Those are mine.
-57. These are your books, aren't they?
-58. No, they aren't.
-59. They're not mine.
-60. These are mine, and those are yours.
-61. Those aren't your pens, are they?
-62. Who are you?
-63. I'm a student.
-64. Who is that over there?
-65. He's a student, too.
-66. Is that lady a student?
-67. No, she isn't.
-    those men aren't students,eigher.
+11. Good evening, Mrs. Brown.
+12. How are you this evening?
+13. Good night, John.
+14. Goodbye, Bill.
+15. See you tomorrow.
+16. Come in, please.
+17. Sit down.
+18. Stand up, please.
+19. Open your book, please.
+20. Close your book, please.
+21. Don't open your book.
+22. Do you understand?
+23. Yes, I understand.
+24. No, I don't understand.
+25. Listen and repeat.
+26. Now read, please.
+27. That's fine.
+28. It's time to begin.
+29. Let's begin now.
+30. This is Lesson One.
+31. What's this?
+32. That's a book.
+33. Is this your book?
+34. No, that's not my book.
+35. Whose book is this?
+36. That's your book.
+37. And what's that?
+38. Is that a book?
+39. No, it isn't.
+40. It's a pencil.
+41. Is it yours?
+42. Yes, it's mine.
+43. Where's the door?
+44. There it is.
+45. Is this book his?
+46. What are these?
+47. Those are books.
+48. Where are the books?
+49. There they are.
+50. These are my pencils.
+51. Where are your pens?
+52. They're over there.
+53. Are these your pens?
+54. Yes, they are.
+55. Those are mine.
+56. These are your books, aren't they?
+57. No, they aren't.
+58. They're not mine.
+59. These are mine, and those are yours.
+60. Those aren't your pens, are they?
+61. Who are you?
+62. I'm a student.
+63. Who is that over there?
+64. He's a student, too.
+65. Is that lady a student?
+66. No, she isn't.
+67. Those men aren't students, either.
 68. Am I your teacher?
 69. Yes, you are.
 70. That man is a teacher, isn't he?
 71. Yes, he is.
 72. Who are those people?
 73. Maybe they're farmers.
-    aren't they students?
-    i really don't know.
-74. What's your name?
-75. My name is Jones.
-76. What's your first name?
-77. My first name is Bill.
-78. How do you spell your last name?
-    jones. j-o-n-e-s.
-    what's your friend's name?
-79. His name is John Smith.
-80. John and I are old friends.
-81. Are you John's brother?
-82. No, I'm not.
-83. This is Mr. Jones.
-84. How do you do?
-85. Mrs. Jones, this is Mr.John Smith.
-86. Very pleased to meet you.
-87. What day is today?
-88. Today is Monday.
-89. What day was yesterday?
-90. Yesterday was Sunday.
-91. What day is tomorrow?
-92. What month is this?
-93. This is January.
-94. Last month was December, wasn't it?
-95. Yes, it was.
-96. What month is next month？
+74. Aren't they students?
+75. I really don't know.
+76. What's your name?
+77. My name is Jones.
+78. What's your first name?
+79. My first name is Bill.
+80. How do you spell your last name?
+81. Jones. J-O-N-E-S.
+82. What's your friend's name?
+83. His name is John Smith.
+84. John and I are old friends.
+85. Are you John's brother?
+86. No, I'm not.
+87. This is Mr. Jones.
+88. How do you do?
+89. Mrs. Jones, this is Mr. John Smith.
+90. Very pleased to meet you.
+91. What day is today?
+92. Today is Monday.
+93. What day was yesterday?
+94. Yesterday was Sunday.
+95. What day is tomorrow?
+96. What month is this?
+97. This is January.
+98. Last month was December, wasn't it?
+99. Yes, it was.
+100. What month is next month?
 97. Where were you
 98. You were here in February,
 99. Your friend was here
