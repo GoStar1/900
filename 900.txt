@@ -300,89 +300,94 @@
 300. They called us just as we were having dinner.
 301. What color is your book?
 302. My book has a dark blue cover.
-303. How much does this book weigh?
-304. It's not too heavy, but it's not light either.
+303. How much does that typewriter weigh?
+304. It's not too heavy, but i don't know the exact weight.
 305. This round table weighs about forty-five pounds.
-306. One of my suitcases is small.
-307. That street is very wide.
-308. Will you please measure this window?
-309. This window is just as wide as that one.
-310. This pencil is shorter than that one.
-311. Would you please tell Mr. Cooper?
-312. Mr. Cooper, that I'm here?
-313. Would you please tell him to call me?
+    what size suitcase do you own?
+306. One of my suitcases is small, and the other one is medium size.
+    i like the shape of that table.
+    how long is Jones Boulevard?
+307. That street is only two miles long.
+308. Will you please measure this window to see how wide it is?
+309. This window is just as wide as that one. 
+    the walls are three inches thick.
+    this material feels soft.
+310. This pencil is longer than that one.
+311. Would you please tell Mr. Cooper that i'm here?
 314. Take these books home with you tonight.
 315. Please bring me those magazines.
-316. Would you help me lift this box?
+316. Would you help me lift this heavy box?
 317. Please ask John to turn on the lights.
 318. Put your books down on the table.
-319. Get me a hammer from the kitchen.
-320. Hang up my coat in the closet.
-321. Would you mind mailing this letter?
-322. If you have time, will you call me?
+319. Get me a hammer from the kitchen, will you?
+320. Hang up my coat in the closet, will you please?
+    please don't bother me now. i'm very busy.
+321. Would you mind mailing this letter for me?
+322. If you have time, will you call me tomorrow?
 323. Please pick up those cups and saucers.
 324. Will you do me a favor?
 325. Please count the chairs in that room.
 326. Please pour this milk into that glass.
-327. Can you give me a hand?
-328. Can you tell me how to get there?
+    excuse me, sir.Can you give me some information?
+328. Can you tell me where peach Street is?
 329. It's two blocks straight ahead.
 330. Which direction is it to the theater?
 331. Turn right at the next corner.
-332. How far is it to the airport?
+332. How far is it to the University?
 333. It's a long way from here.
 334. The school is just around the corner.
-335. The restaurant is across the street.
+335. The restaurant is across the street from the hotel.
 336. You can't miss it.
-337. Do you happen to know Mr. Cooper's address?
-338. Mr. Cooper's telephone number?
-339. Could you tell me where the nearest phone is?
+337. Do you happen to know Mr. Cooper's telephone number?
+339. Could you tell me where the nearest telephone is?
 340. Should I go this way, or that way?
-341. Go that way for two blocks.
-342. Is this seat taken?
+341. Go that way for two blocks, then turn left.
+342. i beg your pardon.Is this seat taken?
 343. Are you married?
 344. No, I'm not married. I'm still single.
-345. I'm still single.
 346. Your niece is engaged, isn't she?
-347. My sister has been married for two years.
-348. When is your wedding anniversary?
+347. My sister has been engaged for two months.
+    My grandfather got married in 1921.
+348. When is your grandparents' wedding anniversary?
+    how long have they been married?
 349. They've been married for quite a few years.
 350. Who did George marry?
 351. Do they have children?
 352. They had a baby last month.
 353. My son wants to get married in June.
-354. They don't know when to get married.
-355. She's a widow. Her husband died last year.
+354. They don't know when the wedding will be.
+    their grandchildren are grown up now.
+    she's a widow. Her husband died last year.
 356. Where did you grow up?
+    i grew up right here in this neighborhood.
 357. My friend spent his childhood in California.
-358. He lived in California for a few years.
-359. There have been a lot of changes here.
-360. There used to be a grocery on the corner.
-361. All of those houses have been torn down.
-362. If you buy that home, will you remodel it?
+358. He lived in California until he was seventeen.
+359. There have been a lot of changes here in the last 20 years.
+360. There used to be a grocery store on the corner.
+361. All of those houses have been build in the last ten years.
+    they're building a new house up the street from me.
+362. If you buy that home, will you spend the rest of your life there?
 363. Are your neighbors very friendly?
 364. We all know each other pretty well.
-365. Who bought that new house down the street?
-366. An elderly man rented that house.
+    a young married couple moved in next door to us.
+365. Who bought that new house down the street from you?
+366. An elderly man rented the big white house.
 367. What beautiful trees those are!
 368. What time are you going to get up tomorrow?
-369. I'll probably wake up early and get up.
+369. I'll probably wake up early and get up at six thirty.
 370. What will you do then?
-371. I'll have breakfast.
-372. I'll have breakfast and then go to work.
-373. What will you have for breakfast?
+371. after i get dressed, I'll have breakfast.
+373. What will you have for breakfast tomorrow morning?
 374. I'll probably have eggs and toast for breakfast.
-375. I'll get ready to go to work.
-376. I'll leave the house at eight o'clock.
-377. I'll probably take the subway to work.
-378. I'll finish working at five thirty.
-379. Are you going to have dinner at home?
-380. Do you think you'll go to the movies?
-381. I'll probably stay home and watch TV.
-382. I'll probably stay home and read.
-383. When I get sleepy, I'll go to bed.
-384. I'll probably get ready for bed at ten.
-385. Do you think you'll be able to go to sleep?
+375. After breakfast, I'll get ready to go to work.
+376. I'll leave the house at eight and get to the office at eight thirty.
+377. I'll probably go out for lunch at about twelve thirty.
+378. I'll finish working at five thirty, and get home by six o'clock.
+379. Are you going to have dinner at home tomorrow night?
+380. Do you think you'll go to the movies tomorrow night?
+381. I'll probably stay home and watch television.
+383. When I get sleepy, I'll probably get ready for bed.
+385. Do you think you'll be able to go to sleep right away?
 386. How is the weather today?
 387. The weather is nice today.
 388. What was the weather like yesterday?
