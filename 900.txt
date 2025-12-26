@@ -258,33 +258,46 @@
     i used to set my alarm clock for exactly 7 a.m.
     i never used to oversleep.
     i used to get dressed quickly every morning.
-216. My brother and I used to go to school together.
-217. We used to go to the movies on Saturday.
-218. We used to have a lot of fun.
-219. My brother used to speak French to me.
-220. French to me all the time.
-221. Where do you live?
-222. What's your address?
-223. I'm Mr. Smith's next door neighbor.
-224. You live here in the city, don't you?
-225. I'm from out of town.
-226. How long have you lived here?
-227. I've lived here for five years.
-228. I've spoken English all my life.
-229. I've already read this book.
-230. Has he studied French very long?
-231. Have you had breakfast already?
-232. Yes, I had breakfast two hours ago.
-233. What were you doing when I called?
-234. When you called me, I was eating dinner.
-235. When I saw Mr. Jones, he was talking.
-236. While you were writing letters, I was reading.
-237. While we were having breakfast, John called.
-238. Can you guess what I was doing?
-239. I can't remember what I was doing.
-240. I've forgotten what he said.
-241. I've forgotten what time he said to call.
-242. They called us just as we were leaving.
+    i always used to leave for work at 8:30.
+    i used to start working at 9:00 o'clock every day.
+    i used to have lunch every day at the same time.
+    i used to work until nearly 6:00 o'clock each day.
+    i used to have dinner at 7:30 and go to bed early.
+216. My brother and I used to go a lot of places together.
+217. We used to go to the movies about once a week.
+218. We used to have a lot of interesting friends.
+219. My brother used to speak French to me all the time.
+    i always used to ask him a lot of questions.
+    where do you live?
+    i live on Washington Street.
+    what's your address?
+    i live at 1203 Washington Street.
+    i'm Mr.Smith's next door neighbor.
+    you live here in the city,don't you?
+    i'm from out of town.
+    how long have you lived here?
+    i've lived here for five years.
+    he's known me for over ten years.
+    i've spoken English all my life.
+    i've already read that book.
+    has he studied french very long?
+    have you had breakfast already? 
+    yes, i had breakfast two hours ago.
+    where were you yesterday afternoon.
+    i was at home all afternoon.
+    i was writing some letters to friends of mine.
+    what were you doing at about 4 o'clock yesterday afternoon?
+    i was listening to the radio.
+    what were you doing when i called you on the telephone?
+    when you called me, i was eating dinner.
+235. When I saw Mr. Jones, he was talking with John Smith.
+236. While you were writing letters, I was reading a book.
+237. While we were having breakfast, John was talking on the telephone.
+238. Can you guess what I was doing this morning?
+239. I can't remember what john was doing yesterday afternoon.
+240. I've forgotten what he said his address was.
+241. I've forgotten what time he said he had dinner last night.
+242. They called us just as we were having dinner.
 243. What color is your book?
 244. My book has a dark blue cover.
 245. How much does this book weigh?
