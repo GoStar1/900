@@ -398,50 +398,56 @@
 398. It's been cloudy all morning.
 399. Is it raining now?
 400. It'll probably clear up this afternoon.
-401. The days are getting longer.
+401. The days are getting hotter.
 402. Today is the first day of spring.
 403. What's the temperature today?
-404. It's about seventy degrees Fahrenheit.
-405. Fahrenheit this afternoon.
-406. There's a cool breeze this evening.
+404. It's about seventy degrees Fahrenheit this afternoon.
+    there's a cool breeze this evening.
 407. How are you feeling today?
+    i don't feel very well this morning.
+    i was sick yesterday, but i'm better today.
 408. My fever is gone, but I still have a cough.
-409. Which of your arms hurts?
-410. My right arm hurts.
-411. It hurts right here.
+    my brother has a bad headache.
+409. Which of your arms is sore?
+410. My right arm hurts, It hurts right here.
 412. What's the matter with you?
 413. I've got pain in my back.
-414. Is it the left one or the right one?
-415. How did you hurt your leg?
-416. Your right hand is swollen.
-417. Does it hurt?
-418. You'd better go see a doctor.
-419. After getting up, I had breakfast.
-420. Then, I shave, brush my teeth and wash my face.
-421. After brushing my teeth, I got dressed.
-422. After that, I go downstairs to the kitchen.
-423. Then, it's usually time to go to work.
-424. He can't dress himself yet.
-425. He tries to button his own shirt.
-426. My little brother takes a bath every day.
+    which foot hurts? Is it the left one?
+415. How did you break your leg?
+    i slipped on the stairs and fell down. i broke my leg.
+416. Your right hand is swollen. Does it hurt?
+    it's bleeding. you'd better go see a doctor about that cut.
+    i hope you'll be well soon.
+    i get out of bed at about 7 o'clock every morning.
+419. After getting up, I go info the bathroom and take a shower.
+420. Then, I shave, brush my teeth and comb my hair.
+421. After brushing my teeth, I put on my clothes.
+422. After that, I go downstairs to the kitchen to have breakfast.
+    after eating breakfast,i go back upstairs again.
+423. Then, it's usually time to wake up my little brother.
+424. He can't dress himself yet because he's too young.
+    i wash his face and hands, and then i dress him.
+425. He tries to button his own shirt,but he can't do it.
+426. My little brother takes a bath before he goes to bed at night.
 427. He always forgets to wash behind his ears.
 428. I'm always tired when I come home from work.
-429. I take off my clothes and put on my pajamas.
-430. I get into bed at about midnight.
-431. What do you think?
-432. Is that right?
-433. Certainly.
-434. You're absolutely right.
-435. Certainly, I agree with you.
+    at bedtime, i take off my clothes and put on my pajamas.
+430. I get into bed at about eleven thirty, and go right off to sleep.
+431. What do you think? Is that right?
+433. Certainly. You're absolutely right about that.
+    i think you're mistaken about that.
+    i like hot weather best.
+    personally, i prefer winter weather.
 436. Do you think it's going to rain tomorrow?
-437. In my opinion, it's going to rain.
-438. Why is Mr. Cooper so tired?
-439. Do you have any idea?
-440. He's tired because he worked hard.
-441. What do you think of the plan?
-442. I think you have a very good point.
+    i don't know whether it will rain or not.
+    in my opinion,that's an excellent idea.
+438. Why is Mr. Cooper so tired? Do you have any idea?
+440. He's tired because he worked hard all day today.
+441. What do you think of my children?
+442. I think you have very attractive children.
+    please give me your frank opinion.
 443. Do you really want to know what I think?
-444. Of course, I want to know what you think.
+444. Of course, I want to know what your opinion is.
 445. What do you plan to do this afternoon?
 446. Please excuse me for a moment.
 447. I'll do some work instead of going out.
