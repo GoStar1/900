@@ -499,376 +499,378 @@
 499. That suit looks very good on you.
 500. This dress is made of silk, isn't it?
 501. I'd like to try on this sweater.
-502. What's the price of this suit?
-503. How much is this rug?
-504. Is this toothpaste on sale?
-505. That's a beautiful leather belt.
-506. How much do I owe you?
-507. That will be eighteen dollars and fifty cents.
-508. Do you have change for a twenty dollar bill?
-509. The clerk helped me find what I wanted.
-510. What would you like for dessert?
-511. I'd like a bowl of tomato soup, please.
-512. The waiter seems to be in a hurry.
-513. Which would you rather have, steak or fish?
-514. What kinds of vegetables do you have?
-515. I'll have mashed potatoes and green beans.
-516. Would you please pass the salt?
-517. They serve good food at this restaurant.
-518. Are you ready to order now?
-519. This knife is dirty.
-520. Would you bring me a clean fork, please?
-521. May I have the check, please?
-522. You have your choice of three flavors.
-523. We have vanilla, chocolate, and strawberry.
-524. We invited two guests to dinner.
-525. How long did the movie last?
-526. They say the new film is an excellent picture.
-527. A group of us went out to the theater last night.
-528. The new play was good and we enjoyed it.
-529. By the time we got there, the play had started.
-530. The cast of the play included two famous actors.
-531. After the play was over, we had a good time.
-532. There was a big crowd outside the theater.
-533. The restaurant was filled, so we had to wait.
-534. My brother wants to learn how to dance.
-535. We don't go dancing very often.
-536. Which would you rather do, go dancing or go to a movie?
-537. I'm not accustomed to going out after dark.
-538. I'd like to make an appointment to see Mr. Cooper.
-539. Would you like to arrange for an interview?
-540. I can come any day except Sunday.
-541. He wants to change his appointment.
-542. She failed to call me back.
-543. I'm going to call Mr. Smith tomorrow.
-544. Please fill in this form.
-545. Are you looking for work?
-546. I'm going to call a plumber to fix the sink.
-547. I'm a new employee.
-548. Please call before you come.
-549. Let's make a date to go shopping next week.
-550. Will you please lock the door when you leave?
-551. The doctor discovered that I'm a little overweight.
-552. I'm a little overweight.
-553. He gave me a chest X-ray and a blood test.
-554. He told me to take these pills every four hours.
-555. Do you think the patient will recover?
-556. They operated on him last night.
-557. He needed a blood transfusion.
-558. My uncle had a heart attack.
-559. They had to call in a heart specialist.
-560. What did the doctor say?
-561. The doctor advised me to get more rest.
-562. The doctor said I look pale.
-563. If I want to be healthy, I have to stop smoking.
-564. It's just a mosquito bite.
-565. What number should I dial to get the operator?
-566. Pick up the receiver and deposit a coin.
-567. I tried to call Mr. Cooper, but the line was busy.
-568. You must have dialed the wrong number.
-569. The telephone is ringing.
-570. Would you answer it, please?
-571. Would you like to leave a message?
-572. Who is this? I don't recognize your voice.
-573. Put the receiver closer to your mouth.
-574. Would you mind calling me back later?
-575. How long has it been since you heard from him?
-576. How long has it been since you wrote to him?
-577. When was the last time you saw him?
-578. I can't recall when I last saw him.
-579. I'm always disappointed when I don't get mail.
-580. What time is the mail delivered?
-581. The postman always comes at two o'clock.
-582. I didn't know you were a stamp collector.
-583. How long does it take for a letter to get there?
-584. Don't forget to put stamps on the letter.
-585. He went to the post office to mail a letter.
-586. How did you sign the letter?
-587. A strange thing happened to me this morning.
-588. It was a terrible experience.
-589. Yesterday was such a beautiful day.
-590. We prepared a picnic lunch and drove to the beach.
-591. After a while, we got tired of swimming.
-592. On the way back home, we had a flat tire.
-593. It was after dark when we got home.
-594. We used to have a lot of good times together.
-595. I can't recall the exact date when we met.
-596. I never realized that you were such a good cook.
-597. We never imagined that we would meet here.
-598. We're looking for a house to rent for the summer.
-599. Are you trying to find a furnished house?
-600. This split-level house is for rent.
-601. That house is for sale.
-602. It has central heating and air conditioning.
-603. We have just moved into a new apartment.
-604. This is an interesting neighborhood.
-605. The roof has leaks in it, and it needs to be fixed.
-606. We've got to get a bed and a dresser.
-607. Does the back door have a lock?
-608. They've already turned on the electricity.
-609. The house is ready to move into.
-610. I'm worried about the pipes freezing in winter.
-611. If you want a towel, look in the linen closet.
-612. What style furniture do you prefer?
-613. We have drapes for the living room windows.
-614. The house needs painting.
-615. It's in bad condition.
-616. What are you going to wear today?
-617. I'm going to wear my blue suit.
-618. You ought to have that coat cleaned and pressed.
-619. I've got to get this shirt washed and ironed.
-620. All my suits are dirty.
-621. You'd better wear a light jacket.
-622. I guess I've outgrown this jacket.
-623. These shoes are worn out.
-624. They've lasted a long time.
-625. Why don't you get a new pair of shoes?
-626. Put on your work clothes.
-627. My brother came in, took off his coat and sat down.
-628. You have your point of view, and I have mine.
-629. That's a liberal point of view.
-630. He seems to have a lot of strange ideas.
-631. Rather than sit here idle, I prefer to work.
-632. There are always two sides to every issue.
-633. We have opposite views on politics.
-634. Do you agree with me?
-635. What point are you trying to make?
-636. Our views are not so far apart after all.
-637. We should be able to come to an understanding.
-638. If it doesn't rain tomorrow, I think I'll go.
-639. I think I'll go shopping.
-640. There's a possibility we'll go if it doesn't rain.
-641. If I have time tomorrow, I think I'll read.
-642. I think I'll get a haircut.
-643. If I get my work finished in time, I'll go.
-644. If I get my work finished, I'll leave early.
-645. Suppose you couldn't go, then what would you do?
-646. How would you feel if you won the lottery?
-647. What would you say if I told you our plan?
-648. If I buy that car, I'll have to borrow some money.
-649. If I went with you, I'd have to miss my class.
-650. One of these days, I'd like to take a vacation.
-651. I'm going to change jobs.
-652. There's a chance he won't come.
-653. We may be able to help you.
-654. If you were to attend the meeting, what would you say?
-655. What would you have done if you had more time?
-656. If you had gotten up earlier, you wouldn't have been late.
-657. If I had had time, I would have called you.
-658. Would he have seen you if you hadn't called?
-659. If you hadn't slipped and fallen, this wouldn't have happened.
-660. If I had known, I would have told you.
-661. Had I known you didn't have a key, I'd have lent you mine.
-662. She would have gone with us if she had had the time.
-663. If I had asked for directions, I wouldn't have gotten lost.
-664. Even if we could have, we wouldn't have done it.
-665. Looking back on it, I wish I had done things differently.
-666. What is it you don't like about winter?
-667. I don't like it when the weather gets cold.
-668. I can't stand the cold weather.
-669. The thing I don't like about driving is the traffic.
-670. The thing I don't like is having to wait.
-671. He doesn't like the idea of leaving home.
-672. I'm not a very good player.
-673. It's good for me.
-674. I'm afraid you're being too particular.
-675. He always finds fault with everything.
-676. She doesn't like anything I do or say.
-677. You have wonderful taste in clothes.
-678. What's your favorite movie?
-679. What did you like best about the book?
-680. I didn't like what he said.
-681. Why do you dislike the plan?
-682. If you want my advice, don't get involved.
-683. It's only a suggestion, but I think you should try it.
-684. Let me give you a piece of advice.
-685. If you don't like it, you don't have to take it.
-686. Please don't take offense.
-687. In my opinion, the house isn't worth the price.
-688. My feeling is that you should try again.
-689. It's none of my business, but I think you should reconsider.
-690. If you don't take my advice, you'll be sorry.
-691. I've always tried not to interfere.
-692. I'm old enough to make up my own mind.
-693. Thanks for the advice, but this is something I have to decide.
-694. He won't pay attention to my advice.
-695. Would you please hold these for me?
-696. You're very kind to take the trouble to help me.
-697. I'm afraid it was a bother for you.
-698. It wasn't any bother.
-699. There's just one last favor I need to ask of you.
-700. I'd be happy to help you.
-701. Would you mind giving me a push?
-702. Would you be so kind as to lend me some money?
-703. If there's anything else I can do, let me know.
-704. I can do it for you.
-705. This is the last time I'll ask you for a favor.
-706. I'll ever ask you to do this again.
-707. This is the last time I'll bother you.
-708. I certainly didn't intend to cause so much trouble.
-709. He'll always be indebted to you.
-710. Could you lend me some money?
-711. Could you lend me twenty dollars?
-712. I'd appreciate it if you could help me.
-713. I've got a lot of things to do before I leave.
-714. For one thing, I've got to pack my suitcase.
-715. It'll take almost all my savings.
-716. Oh, I just remembered something.
-717. It's a good thing you reminded me.
-718. I'll see you off at the airport.
-719. They're calling your flight now.
-720. You'd better run or you're going to miss your plane.
-721. Don't forget to cable me when you arrive.
-722. I'm sure I'll have a wonderful time.
-723. Do you have anything to declare?
-724. You don't have to pay any duty on personal items.
-725. What's your nationality?
-726. Are you American?
-727. What part of the world do you come from?
-728. I'm an American by birth.
-729. Do you know what the population of Japan is?
-730. What's the area of Congo?
-731. Who is the governor of this state?
-732. According to the latest census, the population has grown.
-733. The country is rich in natural resources.
-734. It has mineral deposits.
-735. This nation is noted for its industries.
-736. How old do you have to be to vote?
-737. Today we celebrate our Independence Day.
-738. It's a national holiday.
-739. My home is in the capital.
-740. It's a cosmopolitan city.
-741. It's a beautiful country with many rivers and mountains.
-742. This part of the country is very mountainous.
-743. The land in this region is very fertile.
-744. There are forests here, and the land is good for farming.
-745. The scenery is beautiful near the mountains.
-746. What kind of climate do you have?
-747. How far is it from the coast?
-748. Is the coastal plain good for farming?
-749. What's the longest river in the country?
-750. Are most of the lakes located in the mountains?
-751. The weather is warm and humid in the summer.
-752. Do you get much rain?
-753. Children enter school at the age of five.
-754. In elementary school, children learn to read and write.
-755. In secondary school, they study more advanced subjects.
-756. He went to grade school here.
-757. What was your major in college?
-758. My sister graduated from high school.
-759. Graduation was last night.
-760. I'm a graduate of Yale University.
-761. If you expect to pass, you'll have to study harder.
-762. This is my first year of college.
-763. What kind of grades did you make?
-764. During your first year you'll have to take required courses.
-765. John has a master's degree in education.
-766. He's on the football team.
-767. I'm a federal employee.
-768. What kind of work do you do?
-769. John has built up his own business.
-770. What do you want to be when you grow up?
-771. Have you decided on your future career yet?
-772. Have you ever thought about being a doctor?
-773. My uncle was a pilot in the air force.
-774. He just retired.
-775. My brother's in the army.
-776. He was just promoted to captain.
-777. My sister worked as a nurse.
-778. He has his own practice.
-779. He always treats his patients with care.
-780. He's very efficient.
-781. Mr. Smith is a politician.
-782. He's running for election to the senate.
-783. After a successful career in business, he became mayor.
-784. Because of the warm and humid climate, rice is grown.
-785. In this flat country, farmers grow wheat.
-786. The ground around here is rocky.
-787. What are the principal crops of this region?
-788. They had to cut down a lot of trees.
-789. At this time of the year, farmers are busy harvesting.
-790. On many farms, you'll find chickens and pigs.
-791. If you have cows, you can sell the milk.
-792. In the United States, a lot of corn is grown.
-793. If you work in a factory, you have to join a union.
-794. Is meat packing a big industry in this area?
-795. Is it true that manufacturing has decreased here?
-796. Do you have a hobby?
-797. I've always thought collecting stamps would be fun.
-798. I've always thought I would enjoy collecting coins.
-799. Some people like to collect autographs.
-800. Do you have a favorite pastime?
-801. It takes my mind off my work.
-802. On weekends I like to get out of the city.
-803. My cousin is a member of a drama club.
-804. He seems to enjoy acting.
-805. My cousin is a member of a glee club.
-806. He plays the piano very well.
-807. He's not a professional musician.
-808. I've heard of unusual collections.
-809. That's a rare set of coins.
-810. How long did it take you to collect all these?
-811. I started a new hobby.
-812. It's my favorite sport.
-813. What's your favorite sport?
-814. My nephew is a baseball player.
-815. When you played football, what position did you play?
-816. We played a game of chess last night.
-817. It was a good fight.
-818. When I was on the track team, I ran the mile.
-819. My favorite winter sport is skiing.
-820. Would you be interested in learning to play tennis?
-821. The hardest thing to learn is how to serve.
-822. Be a good sport.
-823. Play according to the rules of the game.
-824. Our family went camping last summer.
-825. We had to buy a new tent.
-826. This afternoon we went fishing.
-827. What do you do for exercise?
-828. My muscles are sore from playing tennis.
-829. It's put out every week.
-830. I sent in a subscription to that magazine.
-831. If you subscribe to the newspaper, it'll be delivered.
-832. The first chapter is about the author's childhood.
-833. Is it out yet?
-834. Have you seen the latest issue?
-835. My brother-in-law works for a publishing company.
-836. The New York Times has a large circulation.
-837. There was an article about the election.
-838. There wasn't much news in the paper today.
-839. How long have you been reading that book?
-840. Did you read the article about the president?
-841. Did you read the article I showed you?
-842. Why don't you put an ad in the newspaper?
-843. My son has a newspaper route.
-844. What channel did you watch last night?
-845. You get good reception on this TV set.
-846. Please turn the radio up. I can barely hear it.
-847. It's too low.
-848. What's on following the news?
-849. Do you have a TV guide?
-850. What's on channel five tonight?
-851. What's on after this program?
-852. You ought to call a TV repairman.
-853. Maybe he could fix it.
-854. Where can I plug in the TV?
-855. Is this outlet all right for the TV?
-856. Your car radio works well.
-857. The next time I buy a radio, I'm going to get a portable.
-858. You'd get better TV reception with a better antenna.
-859. You'd get better picture quality with a new TV.
-860. Most amateur radio operators like to build their own equipment.
-861. What's your favorite kind of music?
-862. He's a composer of classical music.
-863. We went to a concert last night.
-864. My brother took piano lessons for two years.
-865. You play the piano very well.
-866. I've never heard that piece of music before.
-867. Who is the author of this novel?
-868. I've never read a more interesting novel.
-869. Who would you name as the greatest poet?
-870. This poetry is very realistic.
-871. This is a poem about nature.
-872. This is a poem by a famous poet.
-873. How much do you know about the Middle Ages?
-874. I know very little about it.
+502. I'm interested in buying a new car.
+503. What's the price of that electric iron?
+504. How much is this rug?
+505. Is this toothpaste on sale today?
+506. That's a beautiful leather wallet, but it costs too much.
+507. How much do I owe you?
+508. That will be eighteen dollars and seventy-five cents.
+509. Do you have change for a twenty dollar bill?
+510. The clerk helped me find what I wanted.
+511. What would you like to eat?
+512. I'd like a bowl of tomato soup, please.
+513. The waiter seems to be in a hurry to take our order.
+514. Which would you rather have, steak or fish?
+515. I want my steak well done.
+516. What kinds of vegetables do you have?
+517. I'll have mashed potatoes and green beans.
+518. Would you please pass the salt?
+519. They serve good food at this restaurant.
+520. Are you ready for your dessert now?
+521. This knife is dirty.would you bring me a clean one,please?
+522. May I have the check, please?
+523. You have your choice of three flavors of ice cream.
+524. We have vanilla, chocolate, and strawberry.
+525. We invited two guests to dinner, but they didn't come.
+526. How long did the movie last?
+527. The feature started at 9 o'clock and ended at 11:30.
+528. They say the new film is an adventure story.
+529. A group of us went out to the theater last night.
+530. The new play was good and everybody enjoyed it.
+531. By the time we got there, the play had started.
+532. The cast of the play included two famous actors.
+533. After the play was over, we had a good time.
+534. There was a big crowd outside the theater.
+535. The restaurant was filled, so we had to wait.
+536. My brother wants to learn how to dance.
+537. We don't go dancing very often.
+538. Which would you rather do, go dancing or go to a movie?
+539. I'm not accustomed to going out after dark.
+540. I'd like to make an appointment to see Mr. Cooper.
+541. Would you like to arrange for an interview?
+542. I can come any day except Sunday.
+543. He wants to change his appointment.
+544. She failed to call me back.
+545. I'm going to call Mr. Smith tomorrow.
+546. Please fill in this form.
+547. Are you looking for work?
+548. I'm going to call a plumber to fix the sink.
+549. I'm a new employee.
+550. Please call before you come.
+551. Let's make a date to go shopping next week.
+552. Will you please lock the door when you leave?
+553. The doctor discovered that I'm a little overweight.
+554. I'm a little overweight.
+555. He gave me a chest X-ray and a blood test.
+556. He told me to take these pills every four hours.
+557. Do you think the patient will recover?
+558. They operated on him last night.
+559. He needed a blood transfusion.
+560. My uncle had a heart attack.
+561. They had to call in a heart specialist.
+562. What did the doctor say?
+563. The doctor advised me to get more rest.
+564. The doctor said I look pale.
+565. If I want to be healthy, I have to stop smoking.
+566. It's just a mosquito bite.
+567. What number should I dial to get the operator?
+568. Pick up the receiver and deposit a coin.
+569. I tried to call Mr. Cooper, but the line was busy.
+570. You must have dialed the wrong number.
+571. The telephone is ringing.
+572. Would you answer it, please?
+573. Would you like to leave a message?
+574. Who is this? I don't recognize your voice.
+575. Put the receiver closer to your mouth.
+576. Would you mind calling me back later?
+577. How long has it been since you heard from him?
+578. How long has it been since you wrote to him?
+579. When was the last time you saw him?
+580. I can't recall when I last saw him.
+581. I'm always disappointed when I don't get mail.
+582. What time is the mail delivered?
+583. The postman always comes at two o'clock.
+584. I didn't know you were a stamp collector.
+585. How long does it take for a letter to get there?
+586. Don't forget to put stamps on the letter.
+587. He went to the post office to mail a letter.
+588. How did you sign the letter?
+589. A strange thing happened to me this morning.
+590. It was a terrible experience.
+591. Yesterday was such a beautiful day.
+592. We prepared a picnic lunch and drove to the beach.
+593. After a while, we got tired of swimming.
+594. On the way back home, we had a flat tire.
+595. It was after dark when we got home.
+596. We used to have a lot of good times together.
+597. I can't recall the exact date when we met.
+598. I never realized that you were such a good cook.
+599. We never imagined that we would meet here.
+600. We're looking for a house to rent for the summer.
+601. Are you trying to find a furnished house?
+602. This split-level house is for rent.
+603. That house is for sale.
+604. It has central heating and air conditioning.
+605. We have just moved into a new apartment.
+606. This is an interesting neighborhood.
+607. The roof has leaks in it, and it needs to be fixed.
+608. We've got to get a bed and a dresser.
+609. Does the back door have a lock?
+610. They've already turned on the electricity.
+611. The house is ready to move into.
+612. I'm worried about the pipes freezing in winter.
+613. If you want a towel, look in the linen closet.
+614. What style furniture do you prefer?
+615. We have drapes for the living room windows.
+616. The house needs painting.
+617. It's in bad condition.
+618. What are you going to wear today?
+619. I'm going to wear my blue suit.
+620. You ought to have that coat cleaned and pressed.
+621. I've got to get this shirt washed and ironed.
+622. All my suits are dirty.
+623. You'd better wear a light jacket.
+624. I guess I've outgrown this jacket.
+625. These shoes are worn out.
+626. They've lasted a long time.
+627. Why don't you get a new pair of shoes?
+628. Put on your work clothes.
+629. My brother came in, took off his coat and sat down.
+630. You have your point of view, and I have mine.
+631. That's a liberal point of view.
+632. He seems to have a lot of strange ideas.
+633. Rather than sit here idle, I prefer to work.
+634. There are always two sides to every issue.
+635. We have opposite views on politics.
+636. Do you agree with me?
+637. What point are you trying to make?
+638. Our views are not so far apart after all.
+639. We should be able to come to an understanding.
+640. If it doesn't rain tomorrow, I think I'll go.
+641. I think I'll go shopping.
+642. There's a possibility we'll go if it doesn't rain.
+643. If I have time tomorrow, I think I'll read.
+644. I think I'll get a haircut.
+645. If I get my work finished in time, I'll go.
+646. If I get my work finished, I'll leave early.
+647. Suppose you couldn't go, then what would you do?
+648. How would you feel if you won the lottery?
+649. What would you say if I told you our plan?
+650. If I buy that car, I'll have to borrow some money.
+651. If I went with you, I'd have to miss my class.
+652. One of these days, I'd like to take a vacation.
+653. I'm going to change jobs.
+654. There's a chance he won't come.
+655. We may be able to help you.
+656. If you were to attend the meeting, what would you say?
+657. What would you have done if you had more time?
+658. If you had gotten up earlier, you wouldn't have been late.
+659. If I had had time, I would have called you.
+660. Would he have seen you if you hadn't called?
+661. If you hadn't slipped and fallen, this wouldn't have happened.
+662. If I had known, I would have told you.
+663. Had I known you didn't have a key, I'd have lent you mine.
+664. She would have gone with us if she had had the time.
+665. If I had asked for directions, I wouldn't have gotten lost.
+666. Even if we could have, we wouldn't have done it.
+667. Looking back on it, I wish I had done things differently.
+668. What is it you don't like about winter?
+669. I don't like it when the weather gets cold.
+670. I can't stand the cold weather.
+671. The thing I don't like about driving is the traffic.
+672. The thing I don't like is having to wait.
+673. He doesn't like the idea of leaving home.
+674. I'm not a very good player.
+675. It's good for me.
+676. I'm afraid you're being too particular.
+677. He always finds fault with everything.
+678. She doesn't like anything I do or say.
+679. You have wonderful taste in clothes.
+680. What's your favorite movie?
+681. What did you like best about the book?
+682. I didn't like what he said.
+683. Why do you dislike the plan?
+684. If you want my advice, don't get involved.
+685. It's only a suggestion, but I think you should try it.
+686. Let me give you a piece of advice.
+687. If you don't like it, you don't have to take it.
+688. Please don't take offense.
+689. In my opinion, the house isn't worth the price.
+690. My feeling is that you should try again.
+691. It's none of my business, but I think you should reconsider.
+692. If you don't take my advice, you'll be sorry.
+693. I've always tried not to interfere.
+694. I'm old enough to make up my own mind.
+695. Thanks for the advice, but this is something I have to decide.
+696. He won't pay attention to my advice.
+697. Would you please hold these for me?
+698. You're very kind to take the trouble to help me.
+699. I'm afraid it was a bother for you.
+700. It wasn't any bother.
+701. There's just one last favor I need to ask of you.
+702. I'd be happy to help you.
+703. Would you mind giving me a push?
+704. Would you be so kind as to lend me some money?
+705. If there's anything else I can do, let me know.
+706. I can do it for you.
+707. This is the last time I'll ask you for a favor.
+708. I'll ever ask you to do this again.
+709. This is the last time I'll bother you.
+710. I certainly didn't intend to cause so much trouble.
+711. He'll always be indebted to you.
+712. Could you lend me some money?
+713. Could you lend me twenty dollars?
+714. I'd appreciate it if you could help me.
+715. I've got a lot of things to do before I leave.
+716. For one thing, I've got to pack my suitcase.
+717. It'll take almost all my savings.
+718. Oh, I just remembered something.
+719. It's a good thing you reminded me.
+720. I'll see you off at the airport.
+721. They're calling your flight now.
+722. You'd better run or you're going to miss your plane.
+723. Don't forget to cable me when you arrive.
+724. I'm sure I'll have a wonderful time.
+725. Do you have anything to declare?
+726. You don't have to pay any duty on personal items.
+727. What's your nationality?
+728. Are you American?
+729. What part of the world do you come from?
+730. I'm an American by birth.
+731. Do you know what the population of Japan is?
+732. What's the area of Congo?
+733. Who is the governor of this state?
+734. According to the latest census, the population has grown.
+735. The country is rich in natural resources.
+736. It has mineral deposits.
+737. This nation is noted for its industries.
+738. How old do you have to be to vote?
+739. Today we celebrate our Independence Day.
+740. It's a national holiday.
+741. My home is in the capital.
+742. It's a cosmopolitan city.
+743. It's a beautiful country with many rivers and mountains.
+744. This part of the country is very mountainous.
+745. The land in this region is very fertile.
+746. There are forests here, and the land is good for farming.
+747. The scenery is beautiful near the mountains.
+748. What kind of climate do you have?
+749. How far is it from the coast?
+750. Is the coastal plain good for farming?
+751. What's the longest river in the country?
+752. Are most of the lakes located in the mountains?
+753. The weather is warm and humid in the summer.
+754. Do you get much rain?
+755. Children enter school at the age of five.
+756. In elementary school, children learn to read and write.
+757. In secondary school, they study more advanced subjects.
+758. He went to grade school here.
+759. What was your major in college?
+760. My sister graduated from high school.
+761. Graduation was last night.
+762. I'm a graduate of Yale University.
+763. If you expect to pass, you'll have to study harder.
+764. This is my first year of college.
+765. What kind of grades did you make?
+766. During your first year you'll have to take required courses.
+767. John has a master's degree in education.
+768. He's on the football team.
+769. I'm a federal employee.
+770. What kind of work do you do?
+771. John has built up his own business.
+772. What do you want to be when you grow up?
+773. Have you decided on your future career yet?
+774. Have you ever thought about being a doctor?
+775. My uncle was a pilot in the air force.
+776. He just retired.
+777. My brother's in the army.
+778. He was just promoted to captain.
+779. My sister worked as a nurse.
+780. He has his own practice.
+781. He always treats his patients with care.
+782. He's very efficient.
+783. Mr. Smith is a politician.
+784. He's running for election to the senate.
+785. After a successful career in business, he became mayor.
+786. Because of the warm and humid climate, rice is grown.
+787. In this flat country, farmers grow wheat.
+788. The ground around here is rocky.
+789. What are the principal crops of this region?
+790. They had to cut down a lot of trees.
+791. At this time of the year, farmers are busy harvesting.
+792. On many farms, you'll find chickens and pigs.
+793. If you have cows, you can sell the milk.
+794. In the United States, a lot of corn is grown.
+795. If you work in a factory, you have to join a union.
+796. Is meat packing a big industry in this area?
+797. Is it true that manufacturing has decreased here?
+798. Do you have a hobby?
+799. I've always thought collecting stamps would be fun.
+800. I've always thought I would enjoy collecting coins.
+801. Some people like to collect autographs.
+802. Do you have a favorite pastime?
+803. It takes my mind off my work.
+804. On weekends I like to get out of the city.
+805. My cousin is a member of a drama club.
+806. He seems to enjoy acting.
+807. My cousin is a member of a glee club.
+808. He plays the piano very well.
+809. He's not a professional musician.
+810. I've heard of unusual collections.
+811. That's a rare set of coins.
+812. How long did it take you to collect all these?
+813. I started a new hobby.
+814. It's my favorite sport.
+815. What's your favorite sport?
+816. My nephew is a baseball player.
+817. When you played football, what position did you play?
+818. We played a game of chess last night.
+819. It was a good fight.
+820. When I was on the track team, I ran the mile.
+821. My favorite winter sport is skiing.
+822. Would you be interested in learning to play tennis?
+823. The hardest thing to learn is how to serve.
+824. Be a good sport.
+825. Play according to the rules of the game.
+826. Our family went camping last summer.
+827. We had to buy a new tent.
+828. This afternoon we went fishing.
+829. What do you do for exercise?
+830. My muscles are sore from playing tennis.
+831. It's put out every week.
+832. I sent in a subscription to that magazine.
+833. If you subscribe to the newspaper, it'll be delivered.
+834. The first chapter is about the author's childhood.
+835. Is it out yet?
+836. Have you seen the latest issue?
+837. My brother-in-law works for a publishing company.
+838. The New York Times has a large circulation.
+839. There was an article about the election.
+840. There wasn't much news in the paper today.
+841. How long have you been reading that book?
+842. Did you read the article about the president?
+843. Did you read the article I showed you?
+844. Why don't you put an ad in the newspaper?
+845. My son has a newspaper route.
+846. What channel did you watch last night?
+847. You get good reception on this TV set.
+848. Please turn the radio up. I can barely hear it.
+849. It's too low.
+850. What's on following the news?
+851. Do you have a TV guide?
+852. What's on channel five tonight?
+853. What's on after this program?
+854. You ought to call a TV repairman.
+855. Maybe he could fix it.
+856. Where can I plug in the TV?
+857. Is this outlet all right for the TV?
+858. Your car radio works well.
+859. The next time I buy a radio, I'm going to get a portable.
+860. You'd get better TV reception with a better antenna.
+861. You'd get better picture quality with a new TV.
+862. Most amateur radio operators like to build their own equipment.
+863. What's your favorite kind of music?
+864. He's a composer of classical music.
+865. We went to a concert last night.
+866. My brother took piano lessons for two years.
+867. You play the piano very well.
+868. I've never heard that piece of music before.
+869. Who is the author of this novel?
+870. I've never read a more interesting novel.
+871. Who would you name as the greatest poet?
+872. This poetry is very realistic.
+873. This is a poem about nature.
+874. This is a poem by a famous poet.
+875. How much do you know about the Middle Ages?
+876. I know very little about it.
